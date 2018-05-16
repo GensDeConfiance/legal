@@ -2,7 +2,7 @@
 
 ## 1. Objet
 
-La société Gens de Confiance édite une plateforme de petites annonces accessible depuis le site www.gensdeconfiance.fr (ci-après la « **Plateforme** »), ainsi qu’une applicable mobile (ci-après l’« **Application** ») téléchargeable sur les Appstor, par l’intermédiaire desquelles elle permet aux personnes inscrites (ci-après les « **Utilisateurs** ») de publier des petites annonces de tout type (ci-après les « **Annonces** ») auprès de la communauté des Utilisateurs (ci-après le « **Réseau** »), d’accéder auxdites Annonces et d’y répondre (ci-après les « *Services* »).
+La société Gens de Confiance édite une plateforme de petites annonces accessible depuis le site www.gensdeconfiance.fr (ci-après la « **Plateforme** »), ainsi qu’une application mobile (ci-après l’« **Application** ») téléchargeable sur les App stores, par l’intermédiaire desquelles elle permet aux personnes inscrites (ci-après les « **Utilisateurs** ») de publier des petites annonces de tout type (ci-après les « **Annonces** ») auprès de la communauté des Utilisateurs (ci-après le « **Réseau** »), d’accéder aux dites Annonces et d’y répondre (ci-après les « **Services** »).
 
 Gens de Confiance et l’Utilisateur sont ci-après désignés ensemble ou individuellement une « **Partie** ».
 
@@ -215,7 +215,7 @@ Le prix est exigible en totalité à la date d’achat dudit Service payant, en 
 
 Tout Utilisateur a la possibilité de faire des dons de sommes d’argent à GDC, par l’intermédiaire de la Plateforme et/ou de l’Application, dans les conditions détaillées ci-après (ci-après les « **Dons** »).
 
-Tout Utilisateur peut faire un Don du montant de son choix à GDC, à tout moment, en cliquant sur l’onglet **« Nous aider** » dans son Espace personnel et/ou via une sollicitation de GDC lorsque l’Utilisateur retire une Annonce de la Plateforme et/ou de l’Application. GDC garantit l’Utilisateur que lesdits Dons seront exclusivement affectés à la gestion et l’exploitation de la Plateforme.
+Tout Utilisateur peut faire un Don du montant de son choix à GDC, à tout moment, en cliquant sur l’onglet « Nous aider » dans son Espace personnel et/ou via une sollicitation de GDC lorsque l’Utilisateur retire une Annonce de la Plateforme et/ou de l’Application. GDC garantit l’Utilisateur que lesdits Dons seront exclusivement affectés à la gestion et l’exploitation de la Plateforme.
 
 Tout Utilisateur peut, à tout moment pendant toute la durée d’inscription aux Services, solliciter de GDC via l’onglet « Votre compte » dans son Espace personnel, l’ouverture d’un compte crédits GDC (ci-après le « **Compte Crédits GDC** »), sur lequel il peut verser une certaine somme d’argent, en contrepartie de l’attribution d’un nombre de crédits GDC, selon les modalités détaillées sur la Plateforme et/ou l’Application (ci-après les « **Crédits** »).
 
@@ -404,4 +404,4 @@ L’Utilisateur a en outre la possibilité de déposer une plainte via la Platef
 
 ## 29. Entrée en vigueur
 
-Les présentes Conditions Générales sont entrées en vigueur le **1^er^ Juillet 2016**
+Les présentes Conditions Générales sont entrées en vigueur le **1er Juillet 2016**
