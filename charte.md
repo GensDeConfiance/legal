@@ -43,6 +43,8 @@ Vos données à caractère personnel sont collectées pour répondre à une ou p
 
 Nous vous informons, lors de la collecte de vos données personnelles, si certaines données doivent être obligatoirement renseignées ou si elles sont facultatives. Les données obligatoires sont nécessaires pour le fonctionnement des Services. Concernant les données facultatives, vous êtes entièrement libre de les indiquer ou non. Nous vous indiquons également quelles sont les conséquences éventuelles d’un défaut de réponse.
 
+Gens de confiance pourra également, avec votre accord, avoir accès aux données de vos webmails Gmail (via un appel à https://www.googleapis.com/auth/contacts.readonly), Yahoo! et Hotmail afin d’importer vos contacts et vous permettre de trouver vos parrains.
+
 ## 6. Destinataires des données collectées
 
 **Auront accès à vos données à caractère personnel :**
