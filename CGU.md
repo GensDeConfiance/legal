@@ -123,13 +123,41 @@ GDC met à disposition de l’ensemble des Utilisateurs un accès à la base de 
 
 La recherche d’Annonces se fait par mots clefs et par catégories, ainsi que par zone géographique.
 
-### 10.3. Mise à disposition de l’annuaire des membres du Réseau
+### 10.3. Publication et annonce de locations immobilières
+
+GDC met à disposition de ses Utilisateurs un service de publication d’annonces de location immobilière accessible sur son Application et sa Plateforme.
+
+Les présentes Conditions Générales ne régissent pas les relations entre les bailleurs et les locataires des biens immobiliers objets de ces annonces, mais seulement entre GDC et ses Utilisateurs.
+
+GDC n’est pas partie au contrat de location conclu entre le bailleur et le locataire et n’a pas d’autre activité que leur mise en relation.
+
+Les Annonces publiées par les Utilisateurs renseignent notamment la localisation, la taille, les caractéristiques, la disponibilité et le prix du bien immobilier proposé à la location.
+
+L’Annonce est rendue accessible via l’Application ou la Plateforme dès que l’Utilisateur a publié son Annonce.
+
+Les Utilisateurs pourront réserver le bien immobilier mis en location en fonction des informations mentionnées dans l’Annonce.
+
+L’Utilisateur reconnaît et accepte qu’une fois la demande de réservation effectuée, il ne peut plus demander un prix supérieur à celui indiqué dans la demande de réservation.
+
+Les Utilisateurs reconnaissent être exclusivement responsables du contenu des Annonces qu’ils publient ainsi que de tout document ou information qu’ils transmettent aux autres Utilisateurs.
+
+Les Utilisateurs garantissent détenir tous les droits ou avoir obtenu toutes les autorisations nécessaires à la publication de leur Annonce.
+
+A ce titre, les Utilisateurs déclarent et garantissent que toute Annonce ou toute réservation ne violent aucune règlementation en vigueur ni aucun accord passé avec des tiers, tels qu’un contrat de bail ou un règlement de copropriété, et sont conformes à toutes les lois et règlementations applicables, et notamment les obligations fiscales pouvant s’appliquer à la location, et qu’ils ne violent pas les droits des tiers.
+
+Les Utilisateurs s’engagent à ne proposer à la location que des bien immobiliers dont ils sont et demeurent propriétaires ou qu’ils sont habilités à proposer à la location sans que cela ne constitue la violation d’un contrat conclu avec un tiers, pendant toute la durée de la location et que toute information renseignée dans toute Annonce est vraie, exacte, complète et à jour.
+
+Les Utilisateurs s’engagent, en cas d’indisponibilité du bien, à procéder au retrait de l’Annonce dans les plus brefs délais.
+
+En déposant toute Annonce et en acceptant les présentes CGU, chaque Utilisateur déclare être conforme aux obligations énoncées ci-dessus et ce préalablement à toute location qui pourrait être réalisée via l’Application ou la Plateforme.
+
+### 10.4. Mise à disposition de l’annuaire des membres du Réseau
 
 Tout Utilisateur accède à l’annuaire complet des Utilisateurs de la Plateforme et/ou de l’Application, comportant le cas échéant la photo du Profil, et obligatoirement le nom et le prénom des Utilisateurs, l’indication du nombre de Parrains et de personnes parrainées, ainsi que la ville de résidence.
 
 L’Utilisateur autorise expressément GDC à publier lesdites informations dans l’annuaire et reconnaît et accepte qu’il ne peut apparaître dans ledit annuaire de manière anonyme ou sous un pseudonyme.
 
-### 10.4. Adhésion à des groupes
+### 10.5. Adhésion à des groupes
 
 Tout Utilisateur ayant été parrainé par au moins dix (10) personnes, a la possibilité de créer des groupes sur la thématique de son choix en cliquant sur le bouton « Créer un groupe » dans l’onglet « Groupes GensDeConfiance.fr » sur son Espace personnel (ci-après le « **Groupe** »).
 
@@ -137,7 +165,7 @@ L’Utilisateur peut choisir de garder un Groupe ouvert à tous les Utilisateurs
 
 GDC met à disposition de tous les Utilisateurs la liste exhaustive des Groupes publics. Tout Utilisateur peut, sous réserve du statut dudit Groupe, le rejoindre. Au moment de l’adhésion à un Groupe, l’Utilisateur peut choisir s’il souhaite rendre son adhésion audit Groupe visible dans la liste de ses Groupes sur son Profil à tous les Utilisateurs ou s’il souhaite que cette information ne soit visible que pour les autres Utilisateurs membres du même Groupe.
 
-### 10.5. Messagerie
+### 10.6. Messagerie
 
 GDC offre à tout Utilisateur l’accès à un Service de messagerie privée via la Plateforme et/ou l’Application, leur permettant d’entretenir une correspondance privée avec les autres Utilisateurs membres du Réseau. Ce Service de messagerie fonctionne sous une forme et selon les moyens techniques que GDC juge les plus appropriés pour rendre ledit Service.
 
@@ -145,7 +173,7 @@ L’Utilisateur reconnaît et accepte qu’avant la validation définitive de so
 
 Le Service de messagerie est accessible via l’onglet « Messages privés » de l’Espace personnel.
 
-### 10.6. Accès au Forum
+### 10.7. Accès au Forum
 
 GDC met à disposition des Utilisateurs de la Plateforme et/ou de l’Application un forum (ci-après le « **Forum** ») accessible depuis la Plateforme et/ou l’Application en cliquant sur le lien « Forum ». L’Utilisateur accède à un fil de discussion portant sur des thématiques au libre choix de GDC (ci-après les « **Discussions** »).
 
@@ -155,13 +183,13 @@ L’Utilisateur a la possibilité d’émettre des commentaires personnels en r�
 
 GDC décide seule de la forme et des moyens techniques les plus appropriés pour rendre ce Service.
 
-### 10.7. Newsletter
+### 10.8. Newsletter
 
 En souscrivant aux Services, l’Utilisateur accepte expressément de recevoir quotidiennement par email sur l’adresse renseignée lors de l’inscription ou par tout autre moyen jugé utile au libre choix de GDC, une newsletter listant les Annonces les plus visitées la veille.
 
 L’Utilisateur est informé qu’il pourra se désabonner de cette newsletter à tout moment en cliquant sur le lien inséré à cet effet dans l’email d’envoi. L’Utilisateur a également la possibilité de gérer ses différents abonnements, notamment à la newsletter, directement sur son Espace personnel.
 
-### 10.8. Modération
+### 10.9. Modération
 
 GDC se réserve la possibilité de contacter tout Utilisateur ayant publié un minimum de cinq (5) Annonces sur la Plateforme et/ou l’Application et qui participe de manière active à la vie de la Plateforme et/ou de l’Application, et de lui proposer de devenir modérateur des Annonces, selon tout moyen jugé utile par cette dernière (ci-après les « **Modérateurs** »).
 
@@ -175,17 +203,17 @@ Le Modérateur est informé qu’il est libre de modérer les Annonces comme il 
 
 Le Modérateur reçoit quotidiennement dans son Espace personnel, sur une page dédiée à la modération, des Annonces aux fins de modération adressées par GDC. Le Modérateur remplit le formulaire de modération mis à sa disposition par GDC.
 
-### 10.9. Services payants
+### 10.10. Services payants
 
 GDC pourra proposer à l’Utilisateur, à sa libre convenance, des Services payants, par tout moyen qu’elle jugera utile, et identifiés comme tels sur la Plateforme et/ou l’Application (ci-après les « **Services payants** »).
 
 GDC propose d’ores et déjà à tout Utilisateur, dans le cadre de la publication d’Annonces, certains Services payants, selon les modalités détaillées spécifiquement sur la Plateforme, et notamment une option de remontée d’Annonces dans la liste de recherche de la base de données. GDC se réserve la possibilité de proposer tout autre Service payant, tel qu’indiqué sur la Plateforme et/ou l’Application.  
 
-### 10.10. Assistance technique
+### 10.11. Assistance technique
 
 GDC propose à l’Utilisateur une assistance technique accessible par email ou par téléphone aux coordonnées indiquées à l’article « Exploitant du Site et des Services », du lundi au vendredi, de 10h à 18h, à l’exception des jours fériés selon le calendrier français, lui permettant de déclarer toute difficulté rencontrée lors de l’utilisation des Services.
 
-### 10.11. Autres Services
+### 10.12. Autres Services
 
 GDC se réserve la faculté de proposer tout autre Service, sous une forme et selon les fonctionnalités et moyens techniques qu’elle estimera les plus appropriés pour rendre lesdits Services.
 
