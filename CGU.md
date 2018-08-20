@@ -126,11 +126,13 @@ La recherche d’Annonces se fait par mots clefs et par catégories, ainsi que p
 
 ### 10.3. Publication et annonce de locations immobilières
 
-GDC met à disposition de ses Utilisateurs un service de publication d’annonces de location immobilière accessible sur son Application et sa Plateforme.
+GDC n’est pas une agence immobilière.
+
+Elle met à disposition de ses Utilisateurs, un service de publication d’annonces de location immobilière accessible sur son Application et sa Plateforme, permettant (i) aux bailleurs de piloter eux même plus efficacement, et sans intermédiaire, l’encaissement et le suivi des règlements de leurs loyers, (ii) et aux locataires de procéder à des paiements en ligne pour le compte de leur bailleur.
 
 Les présentes Conditions Générales ne régissent pas les relations entre les bailleurs et les locataires des biens immobiliers objets de ces annonces, mais seulement entre GDC et ses Utilisateurs.
 
-GDC n’est pas partie au contrat de location conclu entre le bailleur et le locataire et n’a pas d’autre activité que leur mise en relation.
+GDC n’est pas partie au contrat de location conclu entre le bailleur et le locataire et n’a pas d’autres activités que leur mise en relation et le paiement du loyer.
 
 Les Annonces publiées par les Utilisateurs renseignent notamment la localisation, la taille, les caractéristiques, la disponibilité et le prix du bien immobilier proposé à la location.
 
@@ -146,11 +148,13 @@ Les Utilisateurs garantissent détenir tous les droits ou avoir obtenu toutes le
 
 A ce titre, les Utilisateurs déclarent et garantissent que toute Annonce ou toute réservation ne violent aucune règlementation en vigueur ni aucun accord passé avec des tiers, tels qu’un contrat de bail ou un règlement de copropriété, et sont conformes à toutes les lois et règlementations applicables, et notamment les obligations fiscales pouvant s’appliquer à la location, et qu’ils ne violent pas les droits des tiers.
 
-Les Utilisateurs s’engagent à ne proposer à la location que des bien immobiliers dont ils sont et demeurent propriétaires ou qu’ils sont habilités à proposer à la location sans que cela ne constitue la violation d’un contrat conclu avec un tiers, pendant toute la durée de la location et que toute information renseignée dans toute Annonce est vraie, exacte, complète et à jour.
+Les Utilisateurs s’engagent à ne proposer à la location que des biens immobiliers dont ils sont et demeurent propriétaires ou qu’ils sont habilités à proposer à la location sans que cela ne constitue la violation d’un contrat conclu avec un tiers, pendant toute la durée de la location et que toute information renseignée dans toute Annonce est vraie, exacte, complète et à jour.
 
 Les Utilisateurs s’engagent, en cas d’indisponibilité du bien, à procéder au retrait de l’Annonce dans les plus brefs délais.
 
 En déposant toute Annonce et en acceptant les présentes CGU, chaque Utilisateur déclare être conforme aux obligations énoncées ci-dessus et ce préalablement à toute location qui pourrait être réalisée via l’Application ou la Plateforme.
+
+La responsabilité de GDC ne pourra en aucun cas être engagée sur les éventuels dommages matériels et/ou immatériels causés par le locataire.
 
 ### 10.4. Mise à disposition de l’annuaire des membres du Réseau
 
