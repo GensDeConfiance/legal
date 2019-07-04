@@ -20,7 +20,7 @@ Le responsable de la collecte de vos données à caractère personnel est la soc
 Nous avons nommé un délégué à la protection des données, dont les coordonnées sont les suivantes :
 **Virginie Braud**
 *dpo@gensdeconfiance.fr*
-**5 rue Jean Jacques Rousseau – 44000 Nantes**
+**16 boulevard Guist'hau – 44000 Nantes**
 
 ## 5. Collecte des données à caractère personnel
 
