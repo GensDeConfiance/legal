@@ -19,7 +19,7 @@ Le responsable de la collecte de vos données à caractère personnel est la soc
 
 Nous avons nommé un délégué à la protection des données, dont les coordonnées sont les suivantes :
 **Virginie Braud**
-*dpo@gensdeconfiance.fr*
+*dpo@gensdeconfiance.com*
 **16 boulevard Guist'hau – 44000 Nantes**
 
 ## 5. Collecte des données à caractère personnel
@@ -123,7 +123,7 @@ Nous vous rappelons à toutes fins utiles qu’il vous est possible de vous oppo
 
 **Conformément à la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, et RGPD, vous disposez du droit d’obtenir la communication et, le cas échéant, la rectification ou l’effacement des données vous concernant, à travers un accès en ligne à votre dossier. Vous pouvez également vous adresser à :**
 
-* adresse de courrier électronique : [**bonjour@gensdeconfiance.fr**](mailto:bonjour@gensdeconfiance.fr)
+* adresse de courrier électronique : [**bonjour@gensdeconfiance.com**](mailto:bonjour@gensdeconfiance.com)
 * adresse de courrier postal : **14 rue Jean Jaurès 44000 Nantes**
 
 Il est rappelé aux personnes dont les données sont collectées sur le fondement de notre intérêt légitime, comme mentionné à l’article 5, qu’elles peuvent à tout moment s’opposer au traitement des données les concernant. Nous pouvons toutefois être amenés à poursuivre le traitement s’il existe des motifs légitimes pour le traitement qui prévalent sur vos droits et libertés ou si le traitement est nécessaire pour constater, exercer ou défendre nos droits en justice.
@@ -135,7 +135,7 @@ Il est rappelé aux personnes dont les données sont collectées sur le fondemen
 **Ces directives peuvent être générales, c’est-à-dire qu’elles portent alors sur l’ensemble des données à caractère personnel qui vous concernent. Elles doivent dans ce cas être enregistrées auprès d’un tiers de confiance numérique certifié par la CNIL.**
 
 **Les directives peuvent aussi être spécifiques aux données traitées par notre société. Il convient alors de nous les transmettre aux coordonnées suivantes :**
-* adresse de courrier électronique : [**bonjour@gensdeconfiance.fr**](mailto:bonjour@gensdeconfiance.fr)
+* adresse de courrier électronique : [**bonjour@gensdeconfiance.com**](mailto:bonjour@gensdeconfiance.com)
 * adresse de courrier postal : **14 rue Jean Jaurès 44000 Nantes**
 
 En nous transmettant de telles directives, vous donnez expressément votre consentement pour que ces directives soient conservées, transmises et exécutées selon les modalités prévues aux présentes.

@@ -4,7 +4,7 @@
 
 ## 1. Objet
 
-L’interface (ci-après l’« **Interface** ») disponible sur l’application GENS DE CONFIANCE (ci-après l’« **Application** ») ainsi que sur le site internet www.gensdeconfiance.fr (ci-après la « **Plateforme** ») permet aux personnes inscrites (ci-après les « **Utilisateurs** ») de publier, de consulter et de répondre à des petites annonces de tout type (ci-après les « **Annonces** ») auprès de la communauté des Utilisateurs (ci-après le « **Réseau** »).
+L’interface (ci-après l’« **Interface** ») disponible sur l’application GENS DE CONFIANCE (ci-après l’« **Application** ») ainsi que sur le site internet gensdeconfiance.com (ci-après la « **Plateforme** ») permet aux personnes inscrites (ci-après les « **Utilisateurs** ») de publier, de consulter et de répondre à des petites annonces de tout type (ci-après les « **Annonces** ») auprès de la communauté des Utilisateurs (ci-après le « **Réseau** »).
 
 Les présentes conditions générales (ci-après les « **Conditions Générales** » ont pour objet de définir les modalités et conditions d’inscription des Utilisateurs sur l’Application et/ou sur la Plateforme, les modalités et conditions de l’utilisation des services proposés (ci-après désignés les « **Services** »), ainsi que de définir les droits et obligations des Utilisateurs dans ce cadre.
 
@@ -18,11 +18,11 @@ La société Gens de Confiance et l’Utilisateur sont ci-après désignés ense
 
 ## 2. Exploitant de la Plateforme, de l’Application et des Services
 
-La Plateforme, l’Application et les Services sont exploités par la société Gens de Confiance, société par actions simplifiée au capital de 1.266,33 euros, inscrite au Registre du commerce et des sociétés de Nantes sous le numéro 814 577 649, dont le siège social est situé 14 rue Jean Jaurès – 44000 Nantes (ci-après « **GDC** »).
+La Plateforme, l’Application et les Services sont exploités par la société Gens de Confiance, société par actions simplifiée au capital de 1.593,53 euros, inscrite au Registre du commerce et des sociétés de Nantes sous le numéro 814 577 649, dont le siège social est situé 14 rue Jean Jaurès – 44000 Nantes (ci-après « **GDC** »).
 
 GDC peut être contactée aux coordonnées suivantes :
 
-Adresse électronique : [*bonjour@gensdeconfiance.fr*](mailto:bonjour@gensdeconfiance.fr)
+Adresse électronique : [*bonjour@gensdeconfiance.com*](mailto:bonjour@gensdeconfiance.com)
 Courrier : 14 rue Jean Jaurès 44000 Nantes
 Téléphone : 07 72 38 64 72
 
@@ -164,7 +164,7 @@ L’Utilisateur autorise expressément GDC à publier lesdites informations dans
 
 ### 10.5. Adhésion à des groupes
 
-Tout Utilisateur ayant été parrainé par au moins dix (10) personnes, a la possibilité de créer des groupes sur la thématique de son choix en cliquant sur le bouton « Créer un groupe » dans l’onglet « Groupes GensDeConfiance.fr » sur son Espace personnel (ci-après le « **Groupe** »).
+Tout Utilisateur ayant été parrainé par au moins dix (10) personnes, a la possibilité de créer des groupes sur la thématique de son choix en cliquant sur le bouton « Créer un groupe » dans l’onglet « Groupes » sur son Espace personnel (ci-après le « **Groupe** »).
 
 L’Utilisateur peut choisir de garder un Groupe ouvert à tous les Utilisateurs ou fermé et réservé à certains Utilisateurs sur invitation au libre choix du créateur dudit Groupe. Le Groupe peut également avoir un caractère public, dans ce cas, il apparaît dans la liste des Groupes indiquée sur le Profil de chaque Utilisateur, ou rester secret, dans cette hypothèse, seuls les autres Utilisateurs membres dudit Groupe ont connaissance des membres adhérents dudit Groupe.
 
@@ -212,7 +212,7 @@ Le Modérateur reçoit quotidiennement dans son Espace personnel, sur une page d
 
 GDC pourra proposer à l’Utilisateur, à sa libre convenance, des Services payants, par tout moyen qu’elle jugera utile, et identifiés comme tels sur la Plateforme et/ou l’Application (ci-après les « **Services payants** »).
 
-GDC propose d’ores et déjà à tout Utilisateur, dans le cadre de la publication d’Annonces, certains Services payants, selon les modalités détaillées spécifiquement sur la Plateforme, et notamment une option de remontée d’Annonces dans la liste de recherche de la base de données. GDC se réserve la possibilité de proposer tout autre Service payant, tel qu’indiqué sur la Plateforme et/ou l’Application.  
+GDC propose d’ores et déjà à tout Utilisateur, dans le cadre de la publication d’Annonces, certains Services payants, selon les modalités détaillées spécifiquement sur la Plateforme, et notamment une option de remontée d’Annonces dans la liste de recherche de la base de données. GDC se réserve la possibilité de proposer tout autre Service payant, tel qu’indiqué sur la Plateforme et/ou l’Application.
 
 ### 10.11. Assistance technique
 
@@ -454,11 +454,7 @@ Une liste de médiateurs agréés est disponible sur le site internet de la méd
 
 L’Utilisateur a en outre la possibilité de déposer une plainte via la Plateforme de règlement en ligne des litiges (dites plateforme « RLL ») accessible au moyen du lien ci-dessous : [*https://webgate.ec.europa.eu/odr/main/?event=main.home.show&Ing=FR*](https://webgate.ec.europa.eu/odr/main/?event=main.home.show&Ing=FR).
 
-## 31. Entrée en vigueur
-
-Les présentes Conditions Générales sont entrées en vigueur le **1er Juillet 2016.**
-
-## 32. Loi applicable et juridiction
+## 31. Loi applicable et juridiction
 
 **Les présentes Conditions Générales sont régies par la loi française.**
 
